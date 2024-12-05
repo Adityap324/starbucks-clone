@@ -1,0 +1,13 @@
+.image {
+    background-image: url("https://preprodtsbstorage.blob.core.windows.net/cms/uploads/ICW_Live_Event_Day5_41f11ca3d2.jpg");
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: multiply;
+    height: 400px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.image:hover {
+    filter: brightness(50%);
+    transition: all is ease;
+}
